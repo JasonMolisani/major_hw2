@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jasonmolisani.github.io/major_hw2/sitemap.xml
