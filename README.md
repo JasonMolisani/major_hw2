@@ -1,38 +1,34 @@
-# Repository Description
-These are a series of projects to help you learng SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
-with partial html files.  When you complete this project, you will be able to build your portfolios website.
-## Assignments
-* [Assignment 1 Here](BootStrapBrowserSyncGulp-Homework.pdf)
-* [Assignment 2 Here](BootstrapIntroduction.pdf)
+# Major Grade: Individual Project 2
+The objective of this project is to make a website to enhance a video by providing additional online information in an 
+organized way. You need to create a website with around 10 pages and it should have a sitemap.
 
-#  Videos
-* [Video 1 - Introduction Project Setup](https://youtu.be/rusniDSzXGs)
-* [Video 2 - Boootstrap Tables and Layout](https://youtu.be/5vVfAyUgjg0)
-* [Video 3 - Boootstrap Carousel of Z-Layout](https://youtu.be/uoNYzWw5_Js)
-* [Video 4 - Bootstrap Bottom of Z-Layout](https://youtu.be/hOZb45fZYyE)
+The website should include a carousel and should be made in Bootstrap. Implement F-layout for the  content pages, 
+Z-layout for your homepage. Also include 5-10 images in your website and the images should be from public domain.
 
+You should also prepare a Word document highlighting the outline of your website. This document should also contain the 
+links for your Github repo and your website. It is advisable to host your website on Github Pages, as you did in the 
+earlier assignments.
 
-# Prerequisites
-1. Install Node.js
-2. Read the Gulp article to explain how to install Gulp globally i.e. npm install -g npm install gulp-cli -g on windows or sudo install -g npm install gulp-cli -g on mac
+ 
 
-# Install Instructions
-1.  Clone the repository in WebStorm
-2.  Run npm install to install the dependencies
-3.  Add a run configuration for "Gulp" and put in "serve" as an argument
+## Choose any one of the video topics posted below and base the content of your website on that topic:
+* (History of the Internet)[https://www.youtube.com/watch?v=ILQeXZTOpkw&app=desktop]
+ 
+## Sitemap
+Refer to [this website](https://www.quicksprout.com/creating-website-sitemap/) to understand what is a sitemap and how 
+to implement a same.
 
-![WebStorm Gulp Config](screenshots/gulp.png)
+## Submission
+* Submit the link to your Github repo and the website hosted on Github Pages (in word document)
+* A word document highlighting the outline of your website
+* The link to the sitemap page on your website (in word document)
+ 
+## Your website should contain:
+* Homepage
+* 10 Content pages on the video topic
+* Sitemap
 
-# Readings
-* [What is Bootstrap?](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
-* [What is GULP? <- You need to follow this or it won't work](https://www.sitepoint.com/introduction-gulp-js/)
-* [What is Browser Sync?](https://torquemag.io/2017/06/automate-workflow-browsersync/)
-* [What is SASS CSS(SCSS)?](https://sass-lang.com/guide)
-* [What are Partial Templates?](https://github.com/xkxd/gulp-html-partial)
-
-# Useful Links
-* [Bootstrap Components](https://getbootstrap.com/2.3.2/components.html)
-* [Gulp Homepage](https://gulpjs.com)
-* [Browser Sync Homepage](https://browsersync.io)
-* [SCSS Homepage](https://sass-lang.com/guide)
-* [Markdown Cheat Sheet Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## Grading:
+* 50 points for the website and its content
+* 25 points for the Sitemap
+* 25 points for the Word document
